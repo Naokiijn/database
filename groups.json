@@ -4,5 +4,11 @@
 		"name": "TESTE DE BOTS",
 		"expiration": 1660261387414,
 		"group_plugins": {}
+	},
+	{
+		"id": "0@g.us",
+		"name": "WHATSAPP",
+		"expiration": 1660261387414,
+		"group_plugins": {}
 	}
 ]
