@@ -3,7 +3,9 @@
 		"id": "557491611970-1633179068@g.us",
 		"name": "TESTE DE BOTS",
 		"expiration": 1660261387414,
-		"group_plugins": {}
+		"group_plugins": {
+			"antifakes": true
+		}
 	},
 	{
 		"id": "120363039429229126@g.us",
