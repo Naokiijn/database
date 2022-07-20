@@ -5,7 +5,8 @@
 		"expiration": 1660261387414,
 		"group_plugins": {
 			"antitabela": true,
-			"boasvindas": true
+			"boasvindas": true,
+			"antifakes": true
 		}
 	},
 	{
