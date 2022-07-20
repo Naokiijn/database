@@ -6,7 +6,8 @@
 		"group_plugins": {
 			"antifakes": true,
 			"antitabela": true,
-			"boasvindas": true
+			"boasvindas": true,
+			"antilink": true
 		}
 	},
 	{
