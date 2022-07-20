@@ -6,7 +6,7 @@
 		"group_plugins": {
 			"antitabela": true,
 			"boasvindas": true,
-			"welcome_message": "SEJA BEM VINDO {mention} AO GRUPO {groupname} \n\nDATA: {datw}\nHORA: {time}"
+			"welcome_message": "SEJA BEM VINDO {mention} AO GRUPO {groupname} \n\nDATA: {date}\nHORA: {time}"
 		}
 	},
 	{
