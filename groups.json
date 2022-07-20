@@ -3,9 +3,7 @@
 		"id": "557491611970-1633179068@g.us",
 		"name": "TESTE DE BOTS",
 		"expiration": 1660261387414,
-		"group_plugins": {
-			"antitabela": true
-		}
+		"group_plugins": {}
 	},
 	{
 		"id": "120363039429229126@g.us",
