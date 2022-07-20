@@ -4,7 +4,8 @@
 		"name": "TESTE DE BOTS",
 		"expiration": 1660261387414,
 		"group_plugins": {
-			"antitabela": true
+			"antitabela": true,
+			"boasvindas": true
 		}
 	},
 	{
