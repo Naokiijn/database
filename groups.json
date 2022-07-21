@@ -5,7 +5,6 @@
 		"expiration": 1660261387414,
 		"group_plugins": {
 			"antitabela": true,
-			"boasvindas": true,
 			"welcome_message": "SEJA BEM VINDO {mention} AO GRUPO {groupname} \n\nDATA: {date}\nHORA: {time}",
 			"antilink": true
 		}
